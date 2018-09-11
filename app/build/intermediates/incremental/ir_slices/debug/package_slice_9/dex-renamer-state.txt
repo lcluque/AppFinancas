@@ -1,0 +1,4 @@
+#Thu Jul 05 06:50:04 BRT 2018
+base.0=C\:\\Users\\leooh\\AndroidStudioProjects\\financas-kotlin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\77
+path.0=classes.dex
+renamed.0=classes.dex
